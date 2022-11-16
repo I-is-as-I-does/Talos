@@ -1,7 +1,29 @@
 # SETUP
 
-[TALOS](./readme.md)  
+[TALOS](./../readme.md)  
 [OVERVIEW](./overview.md)
+
+Table of Contents
+
+- [Discord](#discord)
+  - [Server](#server)
+    - [Recommended Roles](#recommended-roles)
+    - [Recommended Channels](#recommended-channels)
+    - [Dev Mode](#dev-mode)
+  - [Application](#application)
+- [Google Sheet](#google-sheet)
+- [Bot](#bot)
+  - [Install](#install)
+  - [Config](#config)
+  - [Dev](#dev)
+    - [Edit / Add Slash Commands](#edit--add-slash-commands)
+    - [Update Slash Commands](#update-slash-commands)
+    - [Edit Profile IDs Word Lists](#edit-profile-ids-word-lists)
+    - [Edit Bot Messages](#edit-bot-messages)
+    - [Edit Bot / Project Web Page](#edit-bot--project-web-page)
+  - [Deploy](#deploy)
+    - [Locally](#locally)
+    - [On Heroku](#on-heroku)
 
 ## Discord
 
@@ -53,7 +75,7 @@ In the *Advanced* tab, enable *Developer mode*.
 
 You can now right-click a role, channel or user name and copy the ID.
 
-### Discord Application
+### Application
 
 1- Navigate to the [Discord developer dashboard](https://discord.com/developers/applications) and create a new Application.
 
@@ -213,9 +235,9 @@ To run your bot locally: `npm run start`
 If you're still testing things out, remember to run `npm run add-cmd` after any edit to the commands;  
 then to restart Talos: `npm run start`.
 
-#### Heroku
+#### On Heroku
 
-1- Commit your own Talos bot to Github.  
+1- Commit your own Talos bot to Github –the contents of the `bot/` folder. The repo can be a private one.  
 2- Create an Heroku account if you don't have one already, and create a new app.  
 3- In the *Deploy* tab, connect your app to your Github repo. Enable *Automatic Deploy*.  
 4- In the *Settings* tab, click on *Reveal Config Vars*. Add all the key/values pairs from your `.env` file.  

@@ -1,7 +1,19 @@
 # OVERVIEW
 
-[TALOS](./readme.md)  
+[TALOS](./../readme.md)  
 [SETUP](./setup.md)
+
+Table of Contents
+
+- [Ownership verification](#ownership-verification)
+  - [Linking](#linking)
+  - [About the Profile ID](#about-the-profile-id)
+  - [Collector Role](#collector-role)
+- [Redeeming](#redeeming)
+  - [Key Principles](#key-principles)
+  - [Process](#process)
+  - [One-time Redeeming](#one-time-redeeming)
+  - [Project Titles](#project-titles)
 
 ## Ownership verification
 
