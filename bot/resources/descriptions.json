@@ -1,0 +1,20 @@
+{
+    "dsc_cancel":"Cancel your request",
+    "dsc_operationHash": "Your NFT operation hash –you can find it on your iteration Fxhash webpage",
+    "dsc_instanceName": "NFT title",
+    "dsc_request": "Join the list for the next redeeming session",
+    "dsc_clear": "Mari Kondo the channel",
+    "dsc_close": "Set a Request as closed",
+    "dsc_requestId": "Request ID",
+    "dsc_levelUp": "Grant the Collector role",
+    "dsc_memberId": "Member ID",
+    "dsc_next": "Next request",
+    "dsc_pending": "Pending Requests count",
+    "dsc_start": "Verify your collector status 1/2",
+    "dsc_walletAddress": "Tezos public address (tz...)",
+    "dsc_trust": "Grant Collector privileges",
+    "dsc_discordId": "Discord ID",
+    "dsc_unlink": "Unlink your Discord account from your Tezos Wallet",
+    "dsc_update": "Update Requests",
+    "dsc_verify": "Verify your collector status 2/2"
+}
